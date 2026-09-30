@@ -18,8 +18,6 @@
 
 🔍 Ask me about **Machine Learning, Generative AI, RAG, LLMs, Computer Vision, Python, or DSA**.
 
-📌 Currently looking for opportunities in **AI/ML, GenAI, and AI Engineering**.
-
 
 # 🌐 Socials
 
