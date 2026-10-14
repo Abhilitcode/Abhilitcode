@@ -12,7 +12,7 @@
 
 🚀 Currently working on projects around **Agentic AI, RAG, LLM applications, and production-oriented AI systems**.
 
-💻 I primarily code in **Python** and I'm currently strengthening my **DSA and problem-solving skills**.
+💻 I primarily code in **Python**, and I'm currently strengthening my **DSA and problem-solving skills**.
 
 🧠 I enjoy understanding how things work under the hood rather than just using frameworks or APIs.
 
